@@ -12,16 +12,22 @@ img.main_sticky {
 /*logo end*/
 .menu {
   width: 100%;
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .menu a.logo {
   display: inline-block;
-  padding: 25px 0 0;
+  padding: 5px 0;
   float: left;
   position: relative;
   z-index: 1;
 }
 .menu img {
   max-width: 100%;
+  width: 80px;
+  filter: hue-rotate(0deg) drop-shadow(0px 0px 1px #ccc);
+  height: 100px;
 }
 .menu-mobile {
   display: none;
@@ -584,6 +590,7 @@ a.dtbtn.up:hover {
 }
 .Tarhadi_nav_manu.sticky .main_sticky {
   display: inherit;
+  filter: hue-rotate(-155deg) drop-shadow(0px 0px 0px transparent);
 }
 .Tarhadi_nav_manu.sticky .Tarhadi_menu li a {
   color: #fff;
@@ -695,14 +702,14 @@ a.cart:after {
 --<	Tarhadi Slider Area Css -->
 ======================================================*/
 .slider1 {
-  background-image: url(assets/images/slider/slider-1.png);
+  background-image: url(assets/images/veternity.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   height: 900px;
 }
 .slider2 {
-  background-image: url(assets/images/slider/slider-2.png);
+  background-image: url(assets/images/veternity2.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -950,15 +957,16 @@ a.cart:after {
 
 .slider_text_inner {
   display: inline-block;
+  max-width:500px;
 }
 .slider_text_inner h1 {
-  font-size: 65px;
+  font-size: 36px;
   text-transform: none;
   font-weight: 800;
   color: #fff;
   margin: 0;
   margin: 0;
-  line-height: 1.1;
+  line-height: 1.3;
 }
 .slider_text_inner h1 span {
   color: #0c5adb;
