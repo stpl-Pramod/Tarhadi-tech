@@ -2304,6 +2304,21 @@
 
 /* small mobile :320px. */
 @media only screen and (min-width: 320px) and (max-width: 599px) {
+  .pt-70 {
+    padding-top: 30px;
+}
+.pb-100 {
+  padding-bottom: 30px;
+}
+.pt-85 {
+  padding-top: 30px;
+}
+  .nagative_margin {
+    margin-top: -60px;
+}
+.top_feature .Tarhadi_flipbox .flipbox_title h3 {
+  font-size: 15px;
+}
   .header_top_menu {
     display: none;
   }
@@ -2319,7 +2334,7 @@
   }
   .slider1,
   .slider2 {
-    height: 600px !important;
+    height: 400px !important;
   }
   .slider-video {
     display: none;
@@ -2467,7 +2482,7 @@
   }
   .Tarhadi_flipbox .Tarhadi_flipbox_font,
   .Tarhadi_flipbox .Tarhadi_flipbox_back {
-    min-height: 280px !important;
+    min-height: 180px !important;
   }
   .it_work_style_two .Tarhadi_flipbox .Tarhadi_flipbox_font,
   .it_work_style_two .Tarhadi_flipbox .Tarhadi_flipbox_back {
@@ -2935,7 +2950,7 @@
     line-height: 31px;
   }
   .upper.section_sub_title1 h6 {
-    color: #0c5adb;
+    color: #1d6d0b;
     font-size: 12px;
   }
   p.seo-text {

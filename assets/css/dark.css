@@ -57,7 +57,7 @@ input[type="checkbox"].toggle-switch:checked:active::after {
 
 input[type="checkbox"].toggle-switch:checked::after {
   left: 3em;
-  background-color: #2475fc;
+  background-color: #3bb720;
   content: "\F496";
   color: #fff;
 }
@@ -91,7 +91,7 @@ input[type="checkbox"].toggle-switch:checked::after {
 /*=========== < Top menu bar >================ */
 
 .dark .Tarhadi_nav_manu {
-  background: #00247e;
+  background: #0c3d01;
 }
 
 .dark .bg_color {
@@ -399,7 +399,7 @@ input[type="checkbox"].toggle-switch:checked::after {
 }
 
 .dark .style-2 .single_team_content {
-  background-color: #2475fc;
+  background-color: #3bb720;
 }
 
 .dark .single_team_content span {
@@ -407,7 +407,7 @@ input[type="checkbox"].toggle-switch:checked::after {
 }
 
 .dark .video-icon a {
-  color: #0c5adb;
+  color: #1d6d0b;
 }
 
 .dark .Tarhadi-info-section {

@@ -11,8 +11,8 @@ body {
 }
 
 :root {
-  --ab-primary-color: #0c5adb;
-  --ab-secondary-color: #00247e;
+  --ab-primary-color: #1d6d0b;
+  --ab-secondary-color: #0c3d01;
   --ab-light: #fff;
   --ab-dark: #212529;
   --ab-body-color: #616161;
@@ -66,7 +66,7 @@ a {
   transition: all 0.3s ease-out 0s;
 }
 a {
-  color: #0c5adb;
+  color: #1d6d0b;
 }
 a:focus,
 .btn:focus {
@@ -187,7 +187,7 @@ ul {
 }
 /* Default Background */
 .bg_color {
-  background: #0c5adb;
+  background: #1d6d0b;
 }
 .bg_color2 {
   background: #eff2f7;
