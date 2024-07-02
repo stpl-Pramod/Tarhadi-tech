@@ -7116,7 +7116,7 @@ span.fill.my-class2 {
   height: 100%;
   width: 100%;
   content: "";
-  background: rgba(12, 90, 219, 0.85);
+  background: rgb(29 52 24);
   z-index: -1;
 }
 .service-details-pn-about-content {
