@@ -2304,6 +2304,10 @@
 
 /* small mobile :320px. */
 @media only screen and (min-width: 320px) and (max-width: 599px) {
+  body {
+    font-size: 14px;
+    line-height: 25px;
+}
   .pt-70 {
     padding-top: 30px;
 }
@@ -2312,6 +2316,22 @@
 }
 .pt-85 {
   padding-top: 30px;
+}
+.breatcome_area {
+  height: 250px;
+}
+.breatcome_title_inner h2 {
+  font-size: 35px;
+}
+.portfolio_nav ul li {
+  font-size: 14px;
+  padding: 9px 10px;
+  letter-spacing: 1px;
+  margin: 0 2px;
+  margin-bottom: 5px;
+}
+h3 {
+  font-size: 25px;
 }
   .nagative_margin {
     margin-top: -60px;
@@ -3308,13 +3328,13 @@
     margin: auto;
   }
   .singel-about-content p {
-    font-size: 15px;
+    font-size: 14px;
   }
   .feature_style_four_title h4 {
     font-size: 20px;
   }
   .feature_style_four_text p {
-    font-size: 15px;
+    font-size: 14px;
   }
   .feature_style_four {
     padding: 50px 30px;
@@ -3385,7 +3405,7 @@
     padding-right: 0 !important;
   }
   .section_content_text p {
-    font-size: 16px;
+    font-size: 15px;
   }
   .pricing_tk h2 {
     font-size: 32px;
