@@ -6116,7 +6116,7 @@ span.fill.my-class2 {
 .single_service_style_ten {
   box-shadow: 0 10px 30px 3px rgba(99, 119, 238, 0.4);
   background: #fff;
-  padding: 30px 30px 15px;
+  padding: 25px;
   position: relative;
   transition: 0.5s;
   margin-bottom: 30px;
@@ -6138,8 +6138,11 @@ span.fill.my-class2 {
   transform: translateY(-10px);
 }
 .single_service_style_ten:hover .service_style_ten_icon .icon {
-  background: rgba(12, 90, 219, 0.9);
+  background: rgb(12 61 1);
   color: #fff;
+}
+.single_service_style_ten:hover .service_style_ten_icon .icon img{
+  filter: invert(1);
 }
 .service_style_ten_content h4 a {
   font-size: 22px;
