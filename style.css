@@ -703,21 +703,21 @@ a.cart:after {
 --<	Tarhadi Slider Area Css -->
 ======================================================*/
 .slider1 {
-  background-image: url(assets/images/veternity.png);
+  background-image: url(assets/images/slide4.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   height: 900px;
 }
 .slider2 {
-  background-image: url(assets/images/veternity2.png);
+  background-image: url(assets/images/slide2.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   height: 900px;
 }
 .slider3 {
-  background-image: url(assets/images/slider/slider-3.png);
+  background-image: url(assets/images/slider-3.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
